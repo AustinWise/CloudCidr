@@ -4,10 +4,10 @@ namespace Austin.CloudCidr;
 // For example "AWS" vs "Amazon Web Services", "Azure" vs "Microsoft Azure".
 
 /// <summary></summary>
-public enum CloudProvider : ulong
+public enum CloudProvider
 {
     Unknown = 0,
     GoogleCloud = 1,
     AmazonWebServices = 2,
-    MicrosoftAzure = 4,
+    MicrosoftAzure = 3,
 }

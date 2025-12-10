@@ -23,7 +23,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Austin.CloudCidr\Austin.CloudCidr.csproj" />
+    <ProjectReference Include="..\AWise.CloudCidr\AWise.CloudCidr.csproj" />
   </ItemGroup>
 
 </Project>

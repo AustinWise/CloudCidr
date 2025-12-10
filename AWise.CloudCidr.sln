@@ -5,9 +5,9 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{22D8B186-72AC-4006-8132-81845DD669E9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Austin.CloudCidr", "src\Austin.CloudCidr\Austin.CloudCidr.csproj", "{9BEAF23D-F145-47FE-9CEC-3CF03EA21E60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWise.CloudCidr", "src\AWise.CloudCidr\AWise.CloudCidr.csproj", "{9BEAF23D-F145-47FE-9CEC-3CF03EA21E60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Austin.CloudCidr.Tests", "src\Austin.CloudCidr.Tests\Austin.CloudCidr.Tests.csproj", "{6F092A5E-E472-4736-A5A6-BD563272164E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWise.CloudCidr.Tests", "src\UnitTests\AWise.CloudCidr.UnitTests.csproj", "{6F092A5E-E472-4736-A5A6-BD563272164E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

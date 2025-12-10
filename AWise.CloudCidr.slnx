@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AWise.CloudCidr/AWise.CloudCidr.csproj" />
+    <Project Path="src/UnitTests/AWise.CloudCidr.UnitTests.csproj" />
+  </Folder>
+</Solution>

@@ -1,6 +1,6 @@
 ﻿using System.Net;
 
-namespace Austin.CloudCidr.Tests
+namespace AWise.CloudCidr.UnitTests
 {
     public class CloudRegionLocatorTests
     {

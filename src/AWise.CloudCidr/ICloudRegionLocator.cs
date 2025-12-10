@@ -1,6 +1,6 @@
 using System.Net;
 
-namespace Austin.CloudCidr;
+namespace AWise.CloudCidr;
 
 public interface ICloudRegionLocator
 {

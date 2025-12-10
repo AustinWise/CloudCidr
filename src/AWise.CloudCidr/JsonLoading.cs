@@ -4,7 +4,7 @@ using System.Net;
 using System.Text.Json;
 using System.Text.Json.Serialization;
 
-namespace Austin.CloudCidr
+namespace AWise.CloudCidr
 {
     public partial class JsonLoading
     {

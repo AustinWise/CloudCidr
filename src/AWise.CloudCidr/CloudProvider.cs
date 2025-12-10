@@ -1,4 +1,4 @@
-namespace Austin.CloudCidr;
+namespace AWise.CloudCidr;
 
 // TODO: figure out a policy for how to refer to clouds.
 // For example "AWS" vs "Amazon Web Services", "Azure" vs "Microsoft Azure".

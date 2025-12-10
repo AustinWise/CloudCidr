@@ -1,4 +1,4 @@
-namespace Austin.CloudCidr.Tests
+namespace AWise.CloudCidr.UnitTests
 {
     public class JsonLoadingTests
     {

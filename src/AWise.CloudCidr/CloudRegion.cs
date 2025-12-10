@@ -1,4 +1,4 @@
-namespace Austin.CloudCidr;
+namespace AWise.CloudCidr;
 
 public readonly struct CloudRegion
 {

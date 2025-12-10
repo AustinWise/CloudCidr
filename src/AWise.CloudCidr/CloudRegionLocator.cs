@@ -5,7 +5,7 @@ using System.Net.Sockets;
 using System.Runtime.InteropServices;
 using System.Threading.Tasks;
 
-namespace Austin.CloudCidr;
+namespace AWise.CloudCidr;
 
 public class CloudRegionLocator : ICloudRegionLocator
 {
